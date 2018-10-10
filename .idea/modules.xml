@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\Android\Farhan\belajar-android-git2-master\belajar-android-git2-master\SplashActivity.iml" filepath="E:\Android\Farhan\belajar-android-git2-master\belajar-android-git2-master\SplashActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/belajar-android-git2-master.iml" filepath="$PROJECT_DIR$/belajar-android-git2-master.iml" />
+    </modules>
+  </component>
+</project>

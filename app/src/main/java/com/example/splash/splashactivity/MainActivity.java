@@ -6,6 +6,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
+import com.example.splash.splashactivity.activity.AddUserActivity;
+import com.example.splash.splashactivity.activity.DetailActivity;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -18,9 +21,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void adduser(View view) {
+        Intent intent = new Intent(MainActivity.this, AddUserActivity.class);
+        startActivity(intent);
     }
 
     public void listuser(View view) {
+        Intent intent = new Intent(MainActivity.this, DetailActivity.class);
+        startActivity(intent);
     }
 
     public void keyfragment(View view) {
